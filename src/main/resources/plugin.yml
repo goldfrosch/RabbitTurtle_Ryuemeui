@@ -1,0 +1,4 @@
+name: RabbitTurtle_Ryuemei
+version: '${project.version}'
+main: org.goldfrosch.plugin.RabbitTurtle_Ryuemei
+api-version: 1.19
